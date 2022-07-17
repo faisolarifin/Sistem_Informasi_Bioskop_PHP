@@ -1,0 +1,22 @@
+.evek-gambar:hover {
+	transform: scale(1.15);
+	opacity: 0.9;
+}
+.evek-button:hover {
+
+}
+/*.animasi-load {
+	image-rendering: -moz-crisp-edges; 
+	animation:  dimuat 2.5s;
+}
+
+@keyframes dimuat {
+	0% {
+		image-rendering: -moz-crisp-edges;
+		transform: scaleX(0);
+	}
+	100% {
+		image-rendering: -moz-crisp-edges;
+		transform: scaleX(1.0);
+	}
+}*/
